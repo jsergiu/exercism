@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\csharp",
+    "\\csharp\\bob",
+    "\\csharp\\reverse-string"
   ],
-  "SelectedNode": "\\exercism.exe",
+  "SelectedNode": "\\csharp\\bob\\Bob.cs",
   "PreviewInSolutionExplorer": false
 }
